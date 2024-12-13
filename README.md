@@ -63,3 +63,6 @@ tac(path) — обратный вывод содержимого файла.
 chmod(mode, path) — изменение прав доступа.  
 log_action(command) — запись команды в лог.  
 write_output(text) — вывод текста в интерфейсе.  
+
+### Примеры использования
+![image](https://github.com/user-attachments/assets/fa650f00-9083-471e-8cae-cd868ff58a4f)
